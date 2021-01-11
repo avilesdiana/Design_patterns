@@ -3,7 +3,7 @@
 - 2 Columnas iguales:
 ![](https://github.com/avilesdiana/Design_patterns/blob/main/ss/2Columns.png)
 - 3 Columnas iguales
-![](https://github.com/avilesdiana/Design_patterns/blob/main/ss/2Columns.png)
+![](https://github.com/avilesdiana/Design_patterns/blob/main/ss/3Columns.png)
 - Column Drop
 - Con Sidebar
 - Layout Shifteb
