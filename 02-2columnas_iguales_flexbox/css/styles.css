@@ -46,6 +46,8 @@ h1 {
     }
 
     .entrada-blog {
-        flex-basis: calc( 50% - 1rem);
+        /*flex-basis: calc( 50% - 1rem); */
+        flex: 0 0 calc(50% - 1rem);
+        /* factor crecimiento | valor o factor de hacer pequeño | tamaño base  */
     }
 }
