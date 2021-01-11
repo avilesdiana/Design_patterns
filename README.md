@@ -1,15 +1,10 @@
-# Design_patterns
+# Design Patterns
 
-Patrones de Responsive Web Design:
-## 
 - 2 Columnas iguales:
-  <img src="ss/2Columns.png" width="500" height="250">
-
+![](https://github.com/avilesdiana/Design_patterns/blob/main/ss/2Columns.png)
 - 3 Columnas iguales
-  <img src ="ss/3Columns.png" width="500" height="250">
-
+![](https://github.com/avilesdiana/Design_patterns/blob/main/ss/2Columns.png)
 - Column Drop
 - Con Sidebar
 - Layout Shifteb
 - Mostlg Fluid
-
